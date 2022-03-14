@@ -1,0 +1,52 @@
+docs_list_title: Sections
+docs:
+
+- title: Main
+  url: index.html
+
+- title: Speakers
+  # url: speakers.html
+  docs: 
+  - title: F. Ardila
+    url: ardila.html
+
+  - title: K. Baur
+    url: baur.html   
+
+  - title: N. Idrissi
+    url: idrissi.html  
+
+  - title: D. Jordan
+    url: jordan.html  
+
+  - title: V. Lebed
+    url: lebed.html   
+
+  - title: N. Libedinsky
+    url: libedinsky.html 
+
+  - title: S. Scherotzke
+    url: scherotzke.html
+
+  - title: C. Stroppel
+    url: stroppel.html   
+
+  - title: L. Vendramin
+    url: vendramin.html   
+  
+- title: Registration
+  url: register.html
+
+- title: Organizers
+  url: organization.html
+
+- title: Schedule
+  url: schedule.html
+
+- title: About
+  url: about.html
+
+- title: Contact
+  url: contact.html
+
+
