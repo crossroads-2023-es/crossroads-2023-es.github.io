@@ -34,7 +34,7 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="https://nicolaslibedinsky.cl/about-me/">Nicolás Libedinsky</a> is a Chilean mathematician. He studied in École Normale Supérieure in Paris and then completed his Ph.D. between Paris Diderot University and Oxford University in 2008. He had a Von Humboldt postdoctoral position in Germany and is now a Professor at the Universidad de Chile. His main interest is (modular) representation theory. In 2019 he published a "mathematical novel" called La unidad de todas las cosas. 
+            <a href="https://nicolaslibedinsky.cl/about-me/">Nicolás Libedinsky</a> is a Chilean mathematician. He studied in École Normale Supérieure in Paris and then completed his Ph.D. between Paris Diderot University and Oxford University in 2008. He had an Alexander von Humboldt postdoctoral position in Germany and is now a Professor at the Universidad de Chile. His main interest is (modular) representation theory. In 2019 he published a "mathematical novel" called <em>La unidad de todas las cosas</em>. 
         </p>   
         <p>  
             <a href="libedinsky.html">View mini-course details.</a>
