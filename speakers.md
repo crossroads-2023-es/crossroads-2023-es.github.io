@@ -2,7 +2,7 @@
 
 <div class="speaker">
     <div class="photo">
-        <a href="ardila.html"><img src="placeholder.png"/></a>
+        <a href="ardila.html"><img src="images/placeholder.png"/></a>
     </div>
     <div class="bio">    
         <p>
@@ -16,7 +16,7 @@
 
 <div class="speaker">
     <div class="photo">
-        <a href="idrissi.html"><img src="idrissi_photo.webp"/></a>
+        <a href="idrissi.html"><img src="images/idrissi_photo.webp"/></a>
     </div>
     <div class="bio">    
         <p>
@@ -30,7 +30,7 @@
 
 <div class="speaker">
     <div class="photo">
-        <a href="lebed.html"><img src="lebed_photo.png"/></a>
+        <a href="lebed.html"><img src="images/lebed_photo.png"/></a>
     </div>
     <div class="bio">    
         <p>
@@ -44,7 +44,7 @@
 
 <div class="speaker">
     <div class="photo">
-        <a href="libedinsky.html"><img src="libedinsky_photo.png"/></a>
+        <a href="libedinsky.html"><img src="images/libedinsky_photo.png"/></a>
     </div>
     <div class="bio">    
         <p>
@@ -58,7 +58,7 @@
 
 <div class="speaker">
     <div class="photo">
-        <a href="vendramin.html"><img src="vendramin_photo.png"/></a>
+        <a href="vendramin.html"><img src="images/vendramin_photo.png"/></a>
     </div>
     <div class="bio">    
         <p>
