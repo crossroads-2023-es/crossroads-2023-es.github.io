@@ -1,10 +1,10 @@
 docs_list_title: Sections
 docs:
 
-- title: Main
+- title: Inicio
   url: index.html
 
-- title: Speakers
+- title: Oradores
   # url: speakers.html
   docs: 
   - title: F. Ardila
@@ -34,19 +34,19 @@ docs:
   - title: L. Vendramin
     url: vendramin.html   
   
-- title: Registration
+- title: Inscripción
   url: register.html
 
-- title: Committees
+- title: Comités
   url: organization.html
 
-- title: Schedule
+- title: Programa
   url: schedule.html
 
-- title: Information
+- title: Información
   url: about.html
 
-- title: Contact
+- title: Contacto
   url: contact.html
 
 
