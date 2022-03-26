@@ -20,7 +20,7 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="http://www1.maths.leeds.ac.uk/~pmtkb/">Karin Baur </a> is a professor in Pure Mathematics at the University of Leeds. After obtaining her PhD in 2002 from the University of Basel in Switzerland she spent her post-doctoral years at ETH, at UCSD and at the University of Leicester before being an SNSF professor at ETH. She became a full professor at the University of Graz in 2011. Her research interests lie in algebraic, combinatorial and geometric methods in representation theory.<em>Photo by Severin Nowacki</em>.
+            <a href="http://www1.maths.leeds.ac.uk/~pmtkb/">Karin Baur </a> is a professor in Pure Mathematics at the University of Leeds. After obtaining her PhD in 2002 from the University of Basel in Switzerland she spent her post-doctoral years at ETH, at UCSD and at the University of Leicester before being an SNSF professor at ETH. She became a full professor at the University of Graz in 2011. Her research interests lie in algebraic, combinatorial and geometric methods in representation theory. <em>Photo by Severin Nowacki</em>.
         </p>   
         <p>  
             <a href="idrissi.html">View mini-course details.</a>
@@ -49,7 +49,7 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="https://www.maths.tcd.ie/~lebed/">Victoria Lebed</a>  finished her PhD in 2012 at Paris City University (formerly Paris 7). After postdocs at Osaka City University, University of Nantes, and Trinity College Dublin, she settled down at the University of Caen Normandy. Her interests revolve around the vast notions of structure and braiding, in particular their algebraic, homological, topological, and categorical aspects. This includes the Yang–Baxter equation, braid groups, knots and their generalisations, self-distributivity, shuffle algebras, Hopf algebras. She believes that most of mathematics can (and should!) be drawn. She is actively engaged in outreach activities. 
+            <a href="https://www.maths.tcd.ie/~lebed/">Victoria Lebed</a>  finished her PhD in 2012 at Paris City University (formerly Paris 7). After postdocs at Osaka City University, University of Nantes, and Trinity College Dublin, she settled down at the University of Caen Normandy. Her interests revolve around the vast notions of structure and braiding, in particular their algebraic, homological, topological, and categorical aspects. This includes the Yang–Baxter equation, braid groups, knots and their generalisations, self-distributivity, shuffle algebras, Hopf algebras. She believes that most of mathematics can (and should!) be drawn. She is actively engaged in outreach activities. <em>Photo by the <a href="https://opc.mfo.de/detail?photo_id=23653">Oberwolfach Photo Collection</a></em>.
         </p>   
         <p>  
             <a href="lebed.html">View mini-course details.</a>
