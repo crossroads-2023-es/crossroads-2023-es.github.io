@@ -1,3 +1,3 @@
-### Contact us
+### Contacto
 
-You can contact us [here](mailto:arg23.math@hu-berlin.de). 
+Pueden contactarnos [aquí](mailto:arg23.math@hu-berlin.de).

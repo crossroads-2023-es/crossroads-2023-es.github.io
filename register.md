@@ -1,7 +1,7 @@
-### Registration
+### Inscripción
 
-_Registration will open on June 2022_.
+_La inscripción comenzará en Junio de 2022_.
 
-### Contact us
+### Contacto
 
-You can contact us [here](mailto:arg23.math@hu-berlin.de).
+Pueden contactarnos [aquí](mailto:arg23.math@hu-berlin.de).

@@ -1,5 +1,5 @@
-### About Puerto Madryn
+### Sobre Puerto Madryn
 
-So much to discover.
+Tanto para descubrir!
 
 <img src="images/1a.jpg">

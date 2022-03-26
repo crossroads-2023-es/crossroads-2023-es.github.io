@@ -1,3 +1,3 @@
-### Schedule
+### Programa
 
-To be determined.
+A determinarse.
