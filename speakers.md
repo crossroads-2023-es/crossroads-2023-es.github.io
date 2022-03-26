@@ -5,7 +5,7 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="http://math.sfsu.edu/federico/">Federico Ardila</a> es un matemático, DJ colombiano que se especializa en la teoría de los matroides. Ardila se graduó en el MIT con una licenciatura en matemáticas en 1998 y obtuvo su doctorado en 2003 bajo la supervisión de Richard P. Stanley en la misma institución. Actualmente, Ardila es profesor en la Universidad Estatal de San Francisco y, además, ocupa un puesto adjunto en la Universidad de los Andes, en Colombia. Además de las matemáticas, Ardila disfruta haciendo música y es cofundador del colectivo de DJs de Oakland "La Pelanga".
+            <a href="http://math.sfsu.edu/federico/">Federico Ardila</a> es un matemático y DJ colombiano que se especializa en la teoría de los matroides. Ardila se graduó en el MIT con una licenciatura en matemáticas en 1998 y obtuvo su doctorado en 2003 bajo la supervisión de Richard P. Stanley en la misma institución. Actualmente, Ardila es profesor en la Universidad Estatal de San Francisco y, además, ocupa un puesto adjunto en la Universidad de los Andes, en Colombia. Además de las matemáticas, Ardila disfruta haciendo música y es cofundador del colectivo de DJs de Oakland "La Pelanga".
             </p>   
         <p>  
             <a href="ardila.html">Ver detalles del mini-curso.</a>
@@ -20,7 +20,7 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="http://www1.maths.leeds.ac.uk/~pmtkb/">Karin Baur </a> es profesora de Matemática Pura en la Universida de Leeds. Tras obtener su doctorado en 2002 en la Universidad de Basilea (Suiza), pasó sus años de posdoctorado en la ETH, en la Universidad de California en San Diego y en la Universidad de Leicester antes de ser profesora de la Fundación Nacional Suiza de Ciencia (SNSF) en la ETH. Se convirtió en profesora titular de la Universidad de Graz en 2011. Sus intereses de investigación se centran en los métodos algebraicos, combinatorios y geométricos de la teoría de representaciones. <em>Foto cortesía de Severin Nowacki</em>.
+            <a href="http://www1.maths.leeds.ac.uk/~pmtkb/">Karin Baur </a> es profesora de Matemática Pura en la Universida de Leeds. Tras obtener su doctorado en 2002 en la Universidad de Basilea, pasó sus años de posdoctorado en el ETH, en la Universidad de California en San Diego y en la Universidad de Leicester antes de ser profesora de SNSF en el ETH. Se convirtió en profesora titular de la Universidad de Graz en 2011. Sus intereses de investigación se centran en los métodos algebraicos, combinatorios y geométricos de la teoría de representaciones. <em>Foto cortesía de Severin Nowacki</em>.
         </p>   
         <p>  
             <a href="baur.html">Ver detalles del mini-curso.</a>
@@ -50,7 +50,7 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="https://www.maths.tcd.ie/~lebed/">Victoria Lebed</a> terminó su doctorado en 2012 en la Universidad de la Ciudad de París (anteriorment París 7). Después de hacer un postdoctorado en la Universidad de la Ciudad de Osaka, la Universidad de Nantes y Trinity College de Dublín, se estableció en la Universidad de Caen Normandía. Sus intereses giran en torno a las vastas nociones de estructura y de trenzado, en particular sus aspectos algebraicos, homológicos, topológicos y categóricos. Esto incluye la ecuación de Yang-Baxter, los grupos de trenzas, los nudos y sus generalizaciones, la autodistributividad, las álgebras shuffle y las álgebras de Hopf. Cree que la mayor parte de las matemáticas pueden (y deben!) ser dibujadas. Participa activamente en actividades de divulgación .<em>Foto cortesía de <a href="https://opc.mfo.de/detail?photo_id=23653">Oberwolfach Photo Collection</a></em>.
+            <a href="https://www.maths.tcd.ie/~lebed/">Victoria Lebed</a> terminó su doctorado en 2012 en la Universidad de la Ciudad de París (anteriorment París 7). Después de hacer un postdoctorado en la Universidad de la Ciudad de Osaka, la Universidad de Nantes y Trinity College de Dublín, se estableció en la Universidad de Caen-Normandía. Sus intereses giran en torno a las vastas nociones de estructura y de trenzado, en particular sus aspectos algebraicos, homológicos, topológicos y categóricos. Esto incluye la ecuación de Yang-Baxter, los grupos de trenzas, los nudos y sus generalizaciones, la autodistributividad, las álgebras shuffle y las álgebras de Hopf. Cree que la mayor parte de las matemáticas pueden (y deben!) ser dibujadas. Participa activamente en actividades de divulgación. <em>Foto cortesía de <a href="https://opc.mfo.de/detail?photo_id=23653">Oberwolfach Photo Collection</a></em>.
         </p>   
         <p>  
             <a href="lebed.html">Ver detalles del mini-curso.</a>
