@@ -5,7 +5,7 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="http://math.sfsu.edu/federico/">Federico Ardila</a> es un matemático y DJ colombiano que se especializa en la teoría de los matroides. Ardila se graduó en el MIT con una licenciatura en matemáticas en 1998 y obtuvo su doctorado en 2003 bajo la supervisión de Richard P. Stanley en la misma institución. Actualmente, Ardila es profesor en la Universidad Estatal de San Francisco y, además, ocupa un puesto adjunto en la Universidad de los Andes, en Colombia. Además de las matemáticas, Ardila disfruta haciendo música y es cofundador del colectivo de DJs de Oakland "La Pelanga".
+            Este curso estará a cargo de <a href="http://math.sfsu.edu/federico/">Federico Ardila</a>. 
             </p>   
         <p>  
             <a href="ardila.html">Ver detalles del mini-curso.</a>
@@ -39,6 +39,36 @@
         </p>   
         <p>  
             <a href="idrissi.html">Ver detalles del mini-curso.</a>
+        </p>   
+    </div>
+</div>
+
+<h4>Una introducción a la teoría de representación geométrica de los grupos cuánticos</h4>
+<div class="speaker">
+    <div class="photo">
+        <a href="jordan.html"><img src="images/placeholder.png"/></a>
+    </div>
+    <div class="bio">    
+        <p>
+            Este curso estará a cargo de <a href="https://www.maths.ed.ac.uk/~djordan/">David Jordan</a>. 
+            </p>   
+        <p>  
+            <a href="jordan.html">Ver detalles del mini-curso.</a>
+        </p>   
+    </div>
+</div>
+
+<h4>Complejos cotangentes de espacios de moduli y algebras diferenciales gradudadas de Ginzburg</h4>
+<div class="speaker">
+    <div class="photo">
+        <a href="scherotzke.html"><img src="images/placeholder.png"/></a>
+    </div>
+    <div class="bio">    
+        <p>
+            Este curso estará a cargo de <a href="https://wwwde.uni.lu/research/fstm/dmath/people/sarah_scherotzke">Sarah Scherotzke</a>. 
+            </p>   
+        <p>  
+            <a href="scherotzke.html">Ver detalles del mini-curso.</a>
         </p>   
     </div>
 </div>
