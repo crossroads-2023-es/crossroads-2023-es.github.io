@@ -46,11 +46,11 @@
 <h4>Una introducción a la teoría de representación geométrica de los grupos cuánticos</h4>
 <div class="speaker">
     <div class="photo">
-        <a href="jordan.html"><img src="images/placeholder.png"/></a>
+        <a href="jordan.html"><img src="images/jordan_photo.jpeg"/></a>
     </div>
     <div class="bio">    
         <p>
-            Este curso estará a cargo de <a href="https://www.maths.ed.ac.uk/~djordan/">David Jordan</a>. 
+            <a href="https://www.maths.ed.ac.uk/~djordan/">David Jordan</a> es profesor (reader) en el Instituto Hodge de la Facultad de Matemáticas de la Universidad de Edimburgo. Se doctoró en el MIT en 2011, tras lo cual obtuvo una beca de investigación posdoctoral de la NSF en la Universidad de Texas antes de incorporarse a la Universidad de Edimburgo en 2013. En 2015 obtuvo una ERC Starting Grant para estudiar la teoría de campos topológicos geométricos cuánticos de Langlands.  Su trabajo se centra en la topología cuántica de las variedades de 2, 3 y 4 dimensiones, combinando herramientas del álgebra superior, la teoría de la representación de los grupos cuánticos y elementos de la teoría de skein.  Con sus colaboradores ha desarrollado la base matemática para la teoría geométrica cuántica de campos topológicos de Langlands de Betti, un modelo para el twist de Kapustin–Witten de la teoría de gauge super-simétrica de Yang–Mills para N=4.
             </p>   
         <p>  
             <a href="jordan.html">Ver detalles del mini-curso.</a>
