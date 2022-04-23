@@ -65,7 +65,8 @@
     </div>
     <div class="bio">    
         <p>
-            Este curso estará a cargo de <a href="https://wwwde.uni.lu/research/fstm/dmath/people/sarah_scherotzke">Sarah Scherotzke</a>. 
+            <a href="https://wwwde.uni.lu/research/fstm/dmath/people/sarah_scherotzke">Sarah Scherotzke</a>
+            hizo su doctorado en la Universidad de Oxford en 2009. Luego de postdocs en París y Bonn, fue profesora en la Universidad de Münster y ahora es profesora en la Universidad de Luxemburgo. Durante su doctorado, trabajó en varios temas de la teoría de la representación, durante su posdoctorado en la teoría de clusters y hoy en dia trabaja en el área de la geometría algebraica derivada. La geometría derivada nos permite seguir haciendo geometría cuando las cosas van mal, por ejemplo, en entornos no transversales. Se trata de un área de las matemáticas hermosa y en rápido desarrollo, con conexiones con muchos otros campos de las matemáticas. En su tiempo libre, a Sarah le gusta hacer senderismo, nadar y bailar.             
             </p>   
         <p>  
             <a href="scherotzke.html">Ver detalles del mini-curso.</a>
