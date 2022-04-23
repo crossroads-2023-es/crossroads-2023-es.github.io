@@ -1,11 +1,11 @@
 <h4>Matroides, combinatoria, y geometría</h4>
 <div class="speaker">
     <div class="photo">
-        <a href="ardila.html"><img src="images/placeholder.png"/></a>
+        <a href="ardila.html"><img src="images/ardila_photo.png"/></a>
     </div>
     <div class="bio">    
         <p>
-            Este curso estará a cargo de <a href="http://math.sfsu.edu/federico/">Federico Ardila</a>. 
+            <a href="http://math.sfsu.edu/federico/">Federico Ardila</a>  es un matemático y músico colombiano interesado en la intersección entre la combinatoria, la geometría, y el álgebra. Obtuvo su doctorado en MIT y es profesor en San Francisco State University y La Universidad de Los Andes. Es Conferencista Invitado del International Congress of Mathematicians 2022, Fellow de la American Math Society, y ganador del Premio a la Enseñanza de la Math Association of America. Ha dirigido las tesis de grado de más de 50 estudiantes y co-dirige MSRI-UP, un programa de investigación para estudiantes de minorías étnicas en Estados Unidos. En todos los aspectos de su trabajo, Federico busca contribuir a la construcción de una comunidad matemática cada vez más incluyente y equitativa. <em>Foto cortesía de May-Li Khoe</em>.
             </p>   
         <p>  
             <a href="ardila.html">Ver detalles del mini-curso.</a>
