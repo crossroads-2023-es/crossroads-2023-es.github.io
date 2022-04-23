@@ -61,7 +61,7 @@
 <h4>Complejos cotangentes de espacios de moduli y algebras diferenciales gradudadas de Ginzburg</h4>
 <div class="speaker">
     <div class="photo">
-        <a href="scherotzke.html"><img src="images/placeholder.png"/></a>
+        <a href="scherotzke.html"><img src="images/scherotzke_photo.png"/></a>
     </div>
     <div class="bio">    
         <p>
