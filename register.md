@@ -6,11 +6,11 @@ El proceso de inscripción a la escuela está abierto. La fecha límite para ins
 
 2.  Los interesados deben enviar un e-mail a arg23.math@hu-berlin.de con un breve currículum vitae. El asunto debe ser "CV NOMBRE APELLIDO".
 
-3. Los solicitantes deben organizar el envío de cartas de recomendación la misma dirección de correo electrónico. El asunto debe ser "Carta de recomendación - NOMBRE DEL SOLICITANTE - NOMBRE DEL REFERENTE"). Tenga en cuenta que:
+3. Los solicitantes deben organizar el envío de cartas de recomendación a la misma dirección de correo electrónico. El asunto debe ser "Carta de recomendación - NOMBRE DEL SOLICITANTE - NOMBRE DEL REFERENTE"). Tengan en cuenta que:
 
-- si es estudiante de máster, se requieren dos cartas de recomendación,
-- si es estudiante de doctorado, se requieren una (pero preferiblemente dos) cartas de recomendación,
-- si es un postdoc, se requiere una carta de recomendación.
+  - para estudiantes de máster o licenciatura se requieren dos cartas de recomendación,
+  - para estudiantes de doctorado se requiere una, pero preferiblemente dos, cartas de recomendación,
+  - para postdocs se requiere una carta de recomendación.
 
 **Financiación CIMPA**: los interesados en países en vías de desarrollo (según los criterios de CIMPA) pueden solicitar financiación CIMPA (para conocer los criterios precisos de elegibilidad, por favor consulte la página web de CIMPA). En este caso, tiene que registrarse en el enlace que aparece en la parte inferior de https://www.cimpa.info/fr/node/7223. 
 
@@ -18,6 +18,6 @@ El proceso de inscripción a la escuela está abierto. La fecha límite para ins
 
 **Otros fondos**: disponemos de fondos limitados. Se dará prioridad a los participantes en las primeras etapas de su carrera, y a los participantes de países en desarrollo que no tengan acceso a una beca. Los gastos de viaje y alojamiento del formulario se refieren a esta financiación alternativa, y no a la financiación CIMPA.
 
- ### Contacto
+### Contacto
 
 Pueden contactarnos [aquí](mailto:arg23.math@hu-berlin.de).
