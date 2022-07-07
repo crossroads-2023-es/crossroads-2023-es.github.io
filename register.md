@@ -12,7 +12,7 @@ El proceso de inscripción a la escuela está abierto. La fecha límite para ins
   - para estudiantes de doctorado se requiere una, pero preferiblemente dos, cartas de recomendación,
   - para postdocs se requiere una carta de recomendación.
 
-**Financiación CIMPA**: los interesados en países en vías de desarrollo (según los criterios de CIMPA) pueden solicitar financiación CIMPA (para conocer los criterios precisos de elegibilidad, por favor consulte la página web de CIMPA). En este caso, tiene que registrarse en el enlace que aparece en la parte inferior de https://www.cimpa.info/fr/node/7223. 
+**Financiación CIMPA**: los interesados de países en vías de desarrollo (según los criterios de CIMPA) pueden solicitar financiación CIMPA (para conocer los criterios precisos de elegibilidad, por favor consulte la página web de CIMPA). En este caso, tiene que registrarse también en el enlace que aparece en la parte inferior de https://www.cimpa.info/fr/node/7223.
 
 *Importante!* Entre otros datos, tiene que proporcionar el nombre de al menos un becario (preferiblemente dos) que pueda recomendar su solicitud CIMPA. Por lo tanto, no es necesario que envíe cartas de recomendación a arg23.math@hu.berlin.de si solicita financiación del CIMPA.
 
