@@ -6,7 +6,7 @@ El proceso de inscripción a la escuela está abierto. La fecha límite para ins
 
 2.  Los interesados deben enviar un e-mail a arg23.math@hu-berlin.de con un breve currículum vitae. El asunto debe ser "CV NOMBRE APELLIDO".
 
-3. Los solicitantes deben organizar el envío de cartas de recomendación a la misma dirección de correo electrónico. El asunto debe ser "Carta de recomendación - NOMBRE DEL SOLICITANTE - NOMBRE DEL REFERENTE"). Tengan en cuenta que:
+3. Los solicitantes deben organizar el envío de cartas de recomendación a la misma dirección de correo electrónico. El asunto debe ser "Carta de recomendación - NOMBRE DEL SOLICITANTE - NOMBRE DEL REFERENTE"). Tenga en cuenta que:
 
   - para estudiantes de máster o licenciatura se requieren dos cartas de recomendación,
   - para estudiantes de doctorado se requiere una, pero preferiblemente dos, cartas de recomendación,
