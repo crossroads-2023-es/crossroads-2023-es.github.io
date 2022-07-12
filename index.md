@@ -3,7 +3,7 @@ La [Escuela CIMPA](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### Noticias
 
-La inscripción está abierta! En la sección [inscripción](https://crossroads-2023.github.io/register.html) encontrará más detalles.
+La inscripción está abierta! En la sección [inscripción](https://crossroads-2023-es.github.io/register.html) encontrará más detalles.
 
 ### Poster
 
