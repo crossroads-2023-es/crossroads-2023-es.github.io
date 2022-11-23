@@ -16,8 +16,8 @@ Agradecemos el apoyo de los siguientes patrocinadores. Contamos con una subvenci
 
 <div style="text-align: center;">
 <a href="https://www.cimpa.info"><img src="images/CIMPA-logo.png" width="100" height="100"></a>
-<a href="https://www.hu-berlin.de/en"><img src="images/HU-logo.png" width="100" height="100"> &nbsp;&nbsp;&nbsp;
-<a href="https://compositio.nl/#foundation"><img src="images/compositiologo.png" width="100" height="100"> &nbsp;&nbsp;&nbsp;
-<a href="https://www.conicet.gov.ar/conicet-descripcion/"><img src="images/conicet.png" width="100" height="57">  
-<a href="https://www.mathunion.org/cdc"><img src="images/IMU-CDC.png" width="100" height="100"> 
+<a href="https://www.hu-berlin.de/en"><img src="images/HU-logo.png" width="100" height="100"> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://compositio.nl/#foundation"><img src="images/compositiologo.png" width="100" height="100"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.conicet.gov.ar/conicet-descripcion/"><img src="images/conicet.png" width="100" height="57">  </a>
+<a href="https://www.mathunion.org/cdc"><img src="images/IMU-CDC.png" width="100" height="100"> </a>
 </div>
