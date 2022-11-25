@@ -16,7 +16,7 @@ El proceso de inscripción a la escuela está abierto. La fecha límite para ins
 
 **Financiación CIMPA**: los interesados de países en vías de desarrollo (según los criterios de CIMPA) pueden solicitar financiación CIMPA (para conocer los criterios precisos de elegibilidad, por favor consulte la página web de CIMPA).  
 
-*Importante!* Entre otros datos, tiene que proporcionar el nombre de al menos un becario (preferiblemente dos) que pueda recomendar su solicitud CIMPA. Por lo tanto, no es necesario que envíe cartas de recomendación a arg23.math@hu.berlin.de si solicita financiación del CIMPA.
+*Importante!* Entre otros datos, tiene que proporcionar el nombre de al menos una persona (preferiblemente dos) que pueda recomendar su solicitud CIMPA. Por lo tanto, no es necesario que envíe cartas de recomendación a arg23.math@hu.berlin.de si solicita financiación del CIMPA.
 
 **Otros fondos**: disponemos de fondos limitados. Se dará prioridad a los participantes en las primeras etapas de su carrera, y a los participantes de países en desarrollo que no tengan acceso a una beca. Los gastos de viaje y alojamiento del formulario se refieren a esta financiación alternativa, y no a la financiación CIMPA.
 
