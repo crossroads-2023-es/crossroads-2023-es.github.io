@@ -12,7 +12,8 @@ El poster de la escuela está disponible para descargar (e imprimir) [aquí](CIM
 
 ### Sponsors
 
-Agradecemos el apoyo de los siguientes patrocinadores. Contamos con una subvención del [_Programa de Apoyo a Conferencias_](https://www.mathunion.org/cdc/grants/conference-support-program) de la IMU-CDC , que cuenta con el apoyo parcial de [the Abel Board](https://abelprize.no/node/154).
+Agradecemos el apoyo de los siguientes patrocinadores. Contamos con una subvención del [_Programa de Apoyo a Conferencias_](https://www.mathunion.org/cdc/grants/conference-support-program) de la IMU-CDC , que cuenta con el apoyo parcial de [the Abel Board](https://abelprize.no/node/154). Agradecemos también el apoyo a través de una subvención de la NSF de [Julia Pevtsova](https://sites.math.washington.edu/~julia/) y [Ralf Schiffler](https://schiffler.math.uconn.edu/).
+
 
 
 [<img src="images/CIMPA-logo.png" width="100" height="100">](https://www.cimpa.info)
@@ -20,4 +21,5 @@ Agradecemos el apoyo de los siguientes patrocinadores. Contamos con una subvenci
 [<img src="images/compositiologo.png" width="100" height="100">](https://compositio.nl/#foundation)&nbsp;&nbsp;&nbsp;
 [<img src="images/conicet.png" width="100" height="57">](https://www.conicet.gov.ar/conicet-descripcion/) 
 [<img src="images/IMU-CDC.png" width="100" height="100">](https://www.mathunion.org/cdc)
+[<img src="images/NSF.svg" width="100" height="100">](https://www.nsf.gov/)
 
