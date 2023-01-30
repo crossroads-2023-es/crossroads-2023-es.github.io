@@ -31,8 +31,8 @@ docs:
   - title: L. Vendramin
     url: vendramin.html   
   
-- title: Inscripción
-  url: register.html
+- title: Sesión de pósters
+  url: postersession.html
 
 - title: Comités
   url: organization.html
@@ -43,8 +43,8 @@ docs:
 - title: Información
   url: about.html
 
-- title: Contacto
-  url: contact.html
+- title: Código de conducta
+  url: coc.html
 
 - title: EN
   url: https://crossroads-2023.github.io/
