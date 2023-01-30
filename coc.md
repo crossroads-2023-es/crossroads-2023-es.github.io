@@ -15,7 +15,7 @@ apropiado pueden ser más complejas y sutiles. Es nuestra expectativa que
 los participantes se apoyen mutuamente y que actúen e interactúen
 con sus colegas de una manera que sea genuinamente respetuosa y considerada. 
  
-Cualquier forma de discriminación o acoso es inaceptables en todos nuestros espacios 
-y no se serán toleradas. Si crees que has experimentado o presenciado un comportamiento 
-de este tipo comportamiento o si no se siente cómodo con el modo en que se le trata, 
+Cualquier forma de discriminación o acoso es inaceptable en todos nuestros espacios 
+y no se será toleradas. Si crees que has experimentado o presenciado un comportamiento 
+de este tipo o si no te sientes cómodo por alguna otra razón, 
 te pedimos que te pongas en contacto con nosotros o con cualquier miembro del [comité organizador](https://crossroads-2023.github.io/organization.html). 
