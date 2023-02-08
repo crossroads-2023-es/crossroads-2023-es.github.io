@@ -28,6 +28,30 @@
     </div>
 </div>
 
+
+<h4>Un desafío a la intuición</h4>
+<div class="speaker">
+    <div class="photo">
+        <a href="carena.html"><img src="images/carena_photo.jpg"/></a>
+    </div>
+    <div class="bio">    
+        <p>
+            <a href="https://sites.google.com/view/marilina-carena">Marilina Carena</a> es doctora en 
+            matemática, graduada en la Facultad de Ingeniería Química de la Universidad Nacional del 
+            Litoral, en Santa Fe. Se desempeña en esta facultad como Investigadora Independiente del 
+            CONICET y como Profesora Asociada. Su áreas de investigación son el análisis y la teoría 
+            geométrica de la medida.  Participa activamente en actividades de divulgación y es autora 
+            del libro <a href="https://www.unl.edu.ar/editorial/index.php?act=showPublicacion&id=8155">La pelota siempre al 10</a>, 
+            en el que se trabajan conceptos matemáticos de la escuela secundaria mediante problemas 
+            referidos al fútbol. 
+            </p>   
+        <p>  
+            <a href="carena.html">Ver detales de la charla de divulgación.</a>
+        </p>   
+    </div>
+</div>
+
+
 <h4>Espacios de configuración, topología algebraica y operadas</h4>
 <div class="speaker">
     <div class="photo">
@@ -54,37 +78,6 @@
             </p>   
         <p>  
             <a href="jordan.html">Ver detalles del mini-curso.</a>
-        </p>   
-    </div>
-</div>
-
-<h4>Complejos cotangentes de espacios de moduli y algebras diferenciales gradudadas de Ginzburg</h4>
-<div class="speaker">
-    <div class="photo">
-        <a href="scherotzke.html"><img src="images/scherotzke_photo.png"/></a>
-    </div>
-    <div class="bio">    
-        <p>
-            <a href="https://wwwde.uni.lu/research/fstm/dmath/people/sarah_scherotzke">Sarah Scherotzke</a>
-            hizo su doctorado en la Universidad de Oxford en 2009. Luego de postdocs en París y Bonn, fue profesora en la Universidad de Münster y ahora es profesora en la Universidad de Luxemburgo. Durante su doctorado, trabajó en varios temas de la teoría de la representación, durante su posdoctorado en la teoría de clusters y hoy en dia trabaja en el área de la geometría algebraica derivada. La geometría derivada nos permite seguir haciendo geometría cuando las cosas van mal, por ejemplo, en entornos no transversales. Se trata de un área de las matemáticas hermosa y en rápido desarrollo, con conexiones con muchos otros campos de las matemáticas. En su tiempo libre, a Sarah le gusta hacer senderismo, nadar y bailar.             
-            </p>   
-        <p>  
-            <a href="scherotzke.html">Ver detalles del mini-curso.</a>
-        </p>   
-    </div>
-</div>
-
-<h4>Origamics: the Mathematics of Origami</h4>
-<div class="speaker">
-    <div class="photo">
-        <a href="lebed.html"><img src="images/lebed_photo.png"/></a>
-    </div>
-    <div class="bio">    
-        <p>
-            <a href="https://www.maths.tcd.ie/~lebed/">Victoria Lebed</a> terminó su doctorado en 2012 en la Universidad de la Ciudad de París (anteriorment París 7). Después de hacer un postdoctorado en la Universidad de la Ciudad de Osaka, la Universidad de Nantes y Trinity College de Dublín, se estableció en la Universidad de Caen-Normandía. Sus intereses giran en torno a las vastas nociones de estructura y de trenzado, en particular sus aspectos algebraicos, homológicos, topológicos y categóricos. Esto incluye la ecuación de Yang-Baxter, los grupos de trenzas, los nudos y sus generalizaciones, la autodistributividad, las álgebras shuffle y las álgebras de Hopf. Cree que la mayor parte de las matemáticas pueden (y deben!) ser dibujadas. Participa activamente en actividades de divulgación. <em>Foto cortesía de <a href="https://opc.mfo.de/detail?photo_id=23653">Oberwolfach Photo Collection</a></em>.
-        </p>   
-        <p>  
-            <a href="lebed.html">Ver detalles del mini-curso.</a>
         </p>   
     </div>
 </div>

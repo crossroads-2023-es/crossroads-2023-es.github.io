@@ -3,7 +3,10 @@ La [Escuela CIMPA](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### Noticias
 
-La inscripción cerró el 30 de noviembre.
+[Marilina Carena](https://sites.google.com/view/marilina-carena)
+(Universidad Nacional del Litoral) dará una charla de divulgación durante la escuela. 
+Lamentablemente, Victoria Lebed y Sarah Scherotzke han tenido que cancelar su 
+participación.
 
 ### Poster
 
