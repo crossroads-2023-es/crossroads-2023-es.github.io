@@ -1,3 +1,3 @@
 ### Programa
 
-A determinarse. Pronto estará disponible más información sobre los cursos.
+El programa está disponible [aquí](schedule-crossroads-2023.pdf). 
