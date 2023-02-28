@@ -3,7 +3,7 @@ La [Escuela CIMPA](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### Noticias
 
-1. Ya están disponibles los apuntes para el curso de David Jordan.  El curso cubrirá material del _Capítulo 2_ al _Capítulo 6_ de [este](jordan/jordan-notes.pdf) libro. Los temas del _Capítulo 1_ (representaciones de $\mathfrak{sl}(2,\mathbb C)$) son un __prerrequisito__ para el curso. ¡Asegúrense de mirarlas antes del curos!
+1. Ya están disponibles los apuntes para el curso de David Jordan.  El curso cubrirá material del _Capítulo 2_ al _Capítulo 6_ de [este](jordan/jordan-notes.pdf) libro. Los temas del _Capítulo 1_ (representaciones de $\mathfrak{sl}(2,\mathbb C)$) son un __prerrequisito__ para el curso. ¡Asegúrense de mirarlas antes del curso!
 
 2. ¡El programa de la escuela está disponible! 
 
