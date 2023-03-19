@@ -1,0 +1,4 @@
+[Mario Sánchez](https://sites.google.com/view/sanchezmario) (Universidad de Cornell)
+_Matroides, combinatoria y geometría._ La teoría de los matroides es una teoría combinatoria de la independencia con sus orígenes en el álgebra lineal y la teoría de grafos, que resulta tener importantes conexiones con muchas otras ramas. En los últimos años, las raíces geométricas de la teoría de los matroides se han profundizado, dando muchos frutos nuevos. 
+
+El estudio geométrico de los matroides ha conducido recientemente al desarrollo de matemáticas muy interesantes en la intersección entre combinatoria, álgebra y geometría, y a la solución de varios problemas abiertos notables. Este curso ofrecerá una introducción a la teoría de los matroides, haciendo hincapié en el punto de vista geométrico y señalando algunos de sus logros recientes más importantes.

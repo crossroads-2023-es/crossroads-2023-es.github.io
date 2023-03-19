@@ -1,4 +1,0 @@
-[Federico Ardila](http://math.sfsu.edu/federico/) (San Francisco State Universty and Universidad de los Andes)
-_Matroides, combinatoria, y geometría._ La teoría de matroides es una teoría combinatoria de la independencia con orígenes en el álgebra lineal y en la teoría de grafos, que resulta tener conexiones importantes con muchas otras ramas. En los últimos años, las raíces geométricas de la teoría de los matroides se han profundizado, dando muchos nuevos frutos. 
-
-El estudio geométrico de las matroides ha llevado recientemente al desarrollo de matemáticas muy interesantes en la intersección entre la combinatoria, el álgebra, y la geometría, y a la solución de varios problemas abiertos notables. Este curso dará una introducción a la teoría de matroides, haciendo énfasis en el punto de vista geométrico, y apuntando hacia algunos de sus logros recientes más importantes.

@@ -3,28 +3,21 @@ La [Escuela CIMPA](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### Noticias
 
+1. Pueden encontrar las diapositivas de la charla de Ana García Elsener [aquí](diapositivas-cimpa-age.pdf), y las de la charla de Gastón García [aquí](diapositivas-cimpa-gg.pdf).
 
-1. _Transporte local_: les recomendamos que usen la aplicación _moovit_ para obtener información sobre el transporte público local. [Aquí](https://moovitapp.com/puerto_madryn-6141/poi/3051%20Bv.%20Almirante%20Brown/Hotel%20Bah%C3%ADa%20Nueva/es-419?ref=5&customerId=4908&fll=-42.76449_-65.034777&tll=-42.785873_-65.005766&t=1) encuentran las rutas de colectivos entre  _Hotel Bahía Nueva_ al campus de la universidad. Alternativemente, pueden escanear el siguiente código QR (abre en la app de _moovit_):
+1. Las fotos de grupo están disponibles [aquí](images/group-photo-2.JPG) y [aquí](images/group-photo-1.JPG).
 
-<p align="center"> 
-<img src="images/bahia-to-campus-QR.png" alt="moovit-QR-code" width="200"/>
-</p> 
 
-2. Ya están disponibles los apuntes para el curso de David Jordan.  El curso cubrirá material del _Capítulo 2_ al _Capítulo 6_ de [este](jordan/jordan-notes.pdf) libro. Los temas del _Capítulo 1_ (representaciones de $\mathfrak{sl}(2,\mathbb C)$) son un __prerrequisito__ para el curso. ¡Asegúrense de mirarlas antes del curso!
+1. La charla de divulgación de [Marilina Carena](https://sites.google.com/view/marilina-carena)
+(Universidad Nacional del Litoral) tendrá lugar a las 18:00 del miércoles 22 en el _Aula Magna_ de la universidad. 
 
-3. ¡El programa de la escuela está disponible! 
+1. [Mario Sánchez](https://sites.google.com/view/sanchezmario) dictará un curso durante la segunda semana de clases. Lamentablemente, Federico Ardila ha tenido que cancelar su participación en la escuela.
 
-4. [Ana García Elsener](https://sites.google.com/view/ana-garcia-elsener) (Universidad Nacional de Mar del Plata) y [Gastón García](https://www.mate.unlp.edu.ar/~ggarcia/) (Universidad Nacional de La Plata) darán breves charlas de investigación durante la escuela.
-
-5. [Marilina Carena](https://sites.google.com/view/marilina-carena)
-(Universidad Nacional del Litoral) dará una charla de divulgación durante la escuela. 
-Lamentablemente, Victoria Lebed y Sarah Scherotzke han tenido que cancelar su 
-participación.
+_Próximamente más información!_
 
 ### Poster
 
 El poster de la escuela está disponible para descargar (e imprimir) [aquí](CIMPA23poster.pdf).
-
 
 ### Sponsors
 

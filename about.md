@@ -1,5 +1,12 @@
 ### Información sobre los aeropuertos y los transportes locales
 
+_Transporte local_: les recomendamos que usen la aplicación _moovit_ para obtener 
+información sobre el transporte público local. [Aquí](https://moovitapp.com/puerto_madryn-6141/poi/3051%20Bv.%20Almirante%20Brown/Hotel%20Bah%C3%ADa%20Nueva/es-419?ref=5&customerId=4908&fll=-42.76449_-65.034777&tll=-42.785873_-65.005766&t=1) encuentran las rutas de colectivos entre  _Hotel Bahía Nueva_ al campus de la universidad. Alternativemente, pueden escanear el siguiente código QR (abre en la app de _moovit_):
+
+<p align="center"> 
+<img src="images/bahia-to-campus-QR.png" alt="moovit-QR-code" width="200"/>
+</p> 
+
 El principal aeropuerto __internacional__ es el _Aeropuerto Internacional de Ezeiza_ (conocido 
 como _Ezeiza_). La información oficial de
 información sobre este aeropuerto está disponible [aquí](https://www.aa2000.com.ar/ezeiza),
